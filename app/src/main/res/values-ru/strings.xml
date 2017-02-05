@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Книга учёта ресторана</string>
+    <string name="recipes">Рецепты</string>
+    <string name="products">Продукты</string>
+    <string name="orders">Заказы</string>
+    <string name="adding_product_dialog_title">Добавление продукта</string>
+    <string name="product_name">Название</string>
+    <string name="product_quantity">Количество</string>
+    <string name="product_price">Цена</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="adding_recipe_dialog">Добавление рецепта</string>
+    <string name="recipe_name">Название</string>
+    <string name="quantity_product_for_recipe">Количество</string>
+    <string name="add_product_for_recipe">Добавить продукт</string>
+    <string name="delete_product_for_recipe">Удалить</string>
+    <string name="meals">Блюда</string>
+    <string name="adding_order_dialog">Добавление заказа</string>
+    <string name="dialog_editing_product">Редактирование продукта</string>
+    <string name="edit_product_for_recipe">Редактировать</string>
+    <string name="edinig_recipe_dialog">Редактирование рецепта</string>
+    <string name="editing_order_dialog">Редактирование заказа</string>
+    <string name="add_meal">Добавить блюдо</string>
+    <string name="til_quantity">Количество:</string>
+    <string name="til_price">Цена:</string>
+    <string name="til_sum">Сумма:</string>
+    <string name="til_cost_price">Себестоимость:</string>
+    <string name="til_price_meal">Цена блюда:</string>
+</resources>

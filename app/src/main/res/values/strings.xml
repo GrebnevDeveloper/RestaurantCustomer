@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Restaurant Customer</string>
+    <string name="recipes">Recipes</string>
+    <string name="products">Products</string>
+    <string name="orders">Orders</string>
+    <string name="adding_product_dialog_title">Adding product</string>
+    <string name="product_name">Name</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="product_price">Price</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="adding_recipe_dialog">Adding recipe</string>
+    <string name="recipe_name">Name</string>
+    <string name="quantity_product_for_recipe">Quantity</string>
+    <string name="add_product_for_recipe">Add Product</string>
+    <string name="delete_product_for_recipe">Delete</string>
+    <string name="meals">Meals</string>
+    <string name="adding_order_dialog">Adding order</string>
+    <string name="dialog_editing_product">Editing product</string>
+    <string name="edit_product_for_recipe">Edit</string>
+    <string name="edinig_recipe_dialog">Editing recipe</string>
+    <string name="editing_order_dialog">Editing order</string>
+    <string name="add_meal">Add meal</string>
+    <string name="til_quantity">Quantity:</string>
+    <string name="til_price">Price:</string>
+    <string name="til_sum">Sum:</string>
+    <string name="til_cost_price">Cost price:</string>
+    <string name="til_price_meal">Price meal:</string>
+</resources>
